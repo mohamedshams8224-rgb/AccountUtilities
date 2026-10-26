@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../different_integers/different_integers.csproj" />
+  <Project Path="../Vowels-String/Vowels-String.csproj" />
+  <Project Path="AccountUtilities.csproj" />
+</Solution>
